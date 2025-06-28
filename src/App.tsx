@@ -28,7 +28,7 @@ const App: React.FC = () => {
         <h3>Téléchargements</h3>
         <div className="download-links">
           <a href="https://expo.dev/artifacts/eas/w9Jqp9S8iLWGbS7K7YjTPs.apk" className="download-btn" download>APK Application</a>
-          <a href="/rapportML.mp4" className="download-btn" download>Vidéo Démo</a>
+          <a href="https://drive.google.com/uc?export=download&id=1qXYFz6RMVOPU1_vwacIgO4R8zKAiPhlS" className="download-btn" download>Vidéo Démo</a>
           <a href="/rapport_analyse_jardin.ipynb" className="download-btn" download>Notebook Analyse</a>
           <a href="/Rapport_ML.pdf" className="download-btn" download>Rapport PDF</a>
           <a href="https://jardin.tiiny.site/jardin_historique_complet.csv" className="download-btn" download>Base de données CSV</a>
